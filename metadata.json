@@ -1,0 +1,8 @@
+{
+  "name": "RadioWeb4",
+  "description": "App Android per ascoltare stazioni radio via internet con catalogo locale CSV/GZIP, filtri per genere, ricerca, player audio HLS/MP3/AAC, brano in onda live e preferiti.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

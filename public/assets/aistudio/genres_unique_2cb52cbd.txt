@@ -1,0 +1,180 @@
+13991	Pop
+10586	Hits
+5575	Rock
+3615	80s
+3145	Electro
+3055	Top 40 & Charts
+2647	Oldies
+2578	90s
+2246	Latin
+2125	Christian Music
+1925	Talk
+1894	Country
+1606	70s
+1585	Hip Hop
+1459	Alternative
+1410	Schlager
+1393	House
+1385	Gospel
+1370	Jazz
+1356	Classic Rock
+1195	R'n'B
+1132	Classical
+912	Chillout
+905	Soul
+904	Techno
+856	Rap
+812	Ballads
+764	Disco
+759	Indie
+661	2000s
+648	Heavy Metal
+643	Easy Listening
+640	Dance
+585	Reggae
+582	Salsa
+553	Blues
+533	Brazilian Music
+530	Christian Contemporary
+490	Funk
+476	Ambient
+452	Top 40
+431	20s 30s 40s 50s 60s
+431	Reggaeton
+417	Traditional music
+410	Trance
+346	Folk
+331	Merengue
+330	Ranchera
+316	Film & Musical
+312	Charts
+304	Hard Rock
+300	Zouk
+299	African Music
+283	Electronica
+275	French songs
+270	Instrumental
+253	Discofox
+243	Drum'n'Bass
+238	Punk
+220	60s
+205	Rock'n'Roll
+192	Bachata
+182	Greek Music
+177	Afrobeat
+176	Gothic
+168	Deep House
+160	Dancehall
+158	German Folklore
+156	Eurodance
+149	Sertanejo
+127	Lounge
+112	Club
+111	Cumbia
+108	Folklore
+108	Tropical
+97	Italian Music
+91	Dub
+91	J-Pop
+91	Love Songs
+87	Mainstream
+87	Swing
+83	K-Pop
+80	Arabic Music
+80	Italo Pop
+78	Bossa Nova
+75	Mexican Music
+74	Bollywood
+72	Spanish Music
+67	Islamic Music
+66	Video Games
+65	Minimal
+64	World
+62	Industrial
+62	New Wave
+61	Children Music
+60	Indian Music
+59	German Music
+59	Soft Rock
+56	Progressive House
+54	Trap
+53	EDM
+50	Vallenato
+49	Balkan Music
+49	Forró
+46	Ska
+45	German Rock
+44	Experimental
+44	Synthpop
+43	Hardstyle
+41	Soft Pop
+40	Downtempo
+40	Turkish Pop
+39	Anime
+39	Medieval
+37	50s
+36	Britpop
+33	Garage House
+33	Samba
+33	Soundtrack
+32	Neue Deutsche Welle
+31	Hardcore Punk
+30	Hardcore Techno
+30	New Age
+29	Turkish Music
+28	20s
+28	C-Pop
+28	Garage Rock
+27	Tamil Music
+26	Partyschlager
+26	Variété Française
+25	Bluegrass
+25	Grunge
+23	Film & TV
+23	Motown
+22	Death Metal
+22	Jungle
+21	Black Metal
+20	Metalcore
+19	Big Band
+18	Dubstep
+18	Piano Music
+17	Arabesque
+17	Austropop
+17	J-Rock
+17	Rumba
+16	Handsup
+16	Psy
+15	Brass
+15	Fado
+15	Flamenco
+15	Opera
+14	Celtic
+14	Indo Pop - Dangdut
+14	Mashup
+14	Rockabilly
+13	Happy Hardcore
+13	Russian Music
+12	Ragga
+11	Breakbeat
+11	Tango
+10	Disco-Polo
+10	Jewish Music
+10	Kizomba
+10	Pagode
+9	30s
+9	40s
+9	Baroque
+9	Goa 
+9	Trip Hop
+8	Albanian Music
+8	Darkcore
+8	Grime
+7	Polish music
+7	Postrock
+5	Electro Swing
+4	Manele
+2	Occitan Music
+1	Jumpstyle
+1	Makossa
+1	Raï
